@@ -3,3 +3,7 @@ Issues:
 1. user table sequence still in CMS schema to avaoid different user_ids in two CMS and CMSADMIN
 
 
+
+added from branch : test fix
+=======
+
